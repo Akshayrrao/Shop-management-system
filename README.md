@@ -68,7 +68,7 @@ Install the following softwares.
 ****
 - Product
 ***
-![Product](img/Product.png)
+![Product](img/product.png)
 ****
 - Vendor
 ***
